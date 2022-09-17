@@ -239,9 +239,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 15px;
 }
 
-</style>
-
-<style>
 
 .gs-section-02 h3 { 
      color: pink }
@@ -250,9 +247,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 20px;
 }
 
-</style>
-
-<style>
 
 .gs-section-03 h3 { 
      color: white }
